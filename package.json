@@ -1,0 +1,23 @@
+{
+  "name": "instagram-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kauefranca/instagram-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kauefranca/instagram-scraper/issues"
+  },
+  "homepage": "https://github.com/Kauefranca/instagram-scraper#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
